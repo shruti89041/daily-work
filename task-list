@@ -1,0 +1,13 @@
+* Project 1 : (Jenkins CI/CD | DOTNET webapp DevSecOps Project) Jenkins, Docker, Trivy, Sonarqube, make package, Kubernetes 
+work on docker and docker-compose
+react application deployment on Vercel.
+terraform learning : gitlab CI/CD pipeline to deploy resources on AWS (EC2, VPC)
+                    * AWS S3 bucket creation using terraform script
+NGINX static website application deployment on AWS EC2.
+install nginx ec2 and push the logs to aws cloudwatch
+* work on Datadog : monitor ec2 instance and website on Datadog, create alerts on datadog
+* create docker image and push it on Amazon ECR.
+* AWS Application Load Balancer Project.
+* dockerize react app and deploy it on aws ecr repository.
+deploy apache on ec2 and secure it with ssl.
+GCP Services Learning.
